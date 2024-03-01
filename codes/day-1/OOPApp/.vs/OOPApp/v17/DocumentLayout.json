@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8314A97-7683-4B12-8037-CF433E7C46F5}|OOPApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\oopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8314A97-7683-4B12-8037-CF433E7C46F5}|OOPApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\oopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\oopapp\\employeereadonlydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|solutionrelative:employeereadonlydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\oopapp\\employeewriteonlydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|solutionrelative:employeewriteonlydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\oopapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B7AD6D-26C8-456B-8FF1-9408ACF364BA}|OOPApp.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeWriteOnlyDTO.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\EmployeeWriteOnlyDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeWriteOnlyDTO.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\EmployeeWriteOnlyDTO.cs",
+              "RelativeToolTip": "EmployeeWriteOnlyDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:23:39.19Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +49,35 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T06:46:23.296Z",
+              "WhenOpened": "2024-03-01T09:14:41.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeReadOnlyDTO.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\EmployeeReadOnlyDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeReadOnlyDTO.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\EmployeeReadOnlyDTO.cs",
+              "RelativeToolTip": "EmployeeReadOnlyDTO.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA4wC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:11:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\OOPApp\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvwkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:09:34.939Z",
               "EditorCaption": ""
             }
           ]

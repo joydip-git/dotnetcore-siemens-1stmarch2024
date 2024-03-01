@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\GenericApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D19708-D254-4AF5-B75A-E785A41DC6BC}|GenericApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\genericapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D19708-D254-4AF5-B75A-E785A41DC6BC}|GenericApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D19708-D254-4AF5-B75A-E785A41DC6BC}|GenericApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\genericapp\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D19708-D254-4AF5-B75A-E785A41DC6BC}|GenericApp.csproj|solutionrelative:calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0028B19-4ACF-4F44-BECB-8CE003767DD2}|..\\DelegateApp\\DelegateApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\delegateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D19708-D254-4AF5-B75A-E785A41DC6BC}|GenericApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\genericapp\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D19708-D254-4AF5-B75A-E785A41DC6BC}|GenericApp.csproj|solutionrelative:addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\DelegateApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DelegateApp\\Program.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\DelegateApp\\Program.cs",
+              "RelativeToolTip": "..\\DelegateApp\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvyoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:16:34.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\GenericApp\\Addition.cs",
+              "RelativeDocumentMoniker": "Addition.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\GenericApp\\Addition.cs",
+              "RelativeToolTip": "Addition.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:36:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\GenericApp\\Calculation.cs",
+              "RelativeDocumentMoniker": "Calculation.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\GenericApp\\Calculation.cs",
+              "RelativeToolTip": "Calculation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:33:44.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\GenericApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\GenericApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:24:18.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

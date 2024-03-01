@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\bin\Debug\net8.0\OOPApp.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\bin\Debug\net8.0\OOPApp.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\bin\Debug\net8.0\OOPApp.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\bin\Debug\net8.0\OOPApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\bin\Debug\net8.0\OOPApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\refint\OOPApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\OOPApp.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-1\OOPApp\obj\Debug\net8.0\ref\OOPApp.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\ProductManagentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482C9E87-DC66-48D5-B3BB-847859828F94}|ProductManagentSystem.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\productmanagentsystem\\repository\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482C9E87-DC66-48D5-B3BB-847859828F94}|ProductManagentSystem.csproj|solutionrelative:repository\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\ProductManagentSystem\\Repository\\Inventory.cs",
+              "RelativeDocumentMoniker": "Repository\\Inventory.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-1\\ProductManagentSystem\\Repository\\Inventory.cs",
+              "RelativeToolTip": "Repository\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:19:17.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
