@@ -1,0 +1,61 @@
+.NET Framework => 4.8 (Legacy)
+.NET Core or .NET X
+
+Language: C#
+IDE: VS
+
+Base Class Library (BCL/FCL) => mscorlib.dll, system.data.dll
+tools: CSC, VBC,... (compilers)
+runtime: Common Language Runtime (CLR)
+asp.net (Active Server Pages)
+ado.net (ActiveX Data Object)/ EF
+
+compile time:
+SC => CSC => IL Code =>
+first.cs => compiler => first.exe/.dll (assembly)
+
+Dim x as Integer = 10
+int x = 10;
+
+Int32 x= 10
+Int32 x = 10
+
+runtime:
+assembly (IL code) =>  Just-in-Time (JIT) compiler => MLC => execution
+
+year			.NET Framework version		CLR Version	C# Version
+-------------------------------------------------------------------
+2002			1.0										1.0			1.0
+2003			1.1										1.1			1.1
+2005			2.0										2.0			2.0
+2007			3.0										2.0			3.0
+2008			3.5										2.0			3.5
+2010			4.0										4.0			4.0
+2012/13		4.5										4.0			5.0
+2015/16		4.6										4.0			6.0
+2016/17		4.7										4.0			7.0
+2018/19		4.8										4.0			8.0
+
+.NET Core 
+Fx Core Library
+Core CLR runtime => Desktop runtime and ASP.NET Core Runtime
+tools: Roslyn
+asp.net core
+EF Core
+
+.NET Core 1.0 1.1 2.0 3.0 3.1
+
+.NET 5, 6, 7, 8
+
+.NET Standard
+
+https://github.com/joydip-git/dotnetcore-siemens-1stmarch2024
+
+
+
+
+
+
+
+
+
