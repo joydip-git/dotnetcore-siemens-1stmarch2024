@@ -39,17 +39,53 @@ year			.NET Framework version		CLR Version	C# Version
 .NET Core 
 Fx Core Library
 Core CLR runtime => Desktop runtime and ASP.NET Core Runtime
-tools: Roslyn
+tools: Roslyn, dotnet
 asp.net core
 EF Core
 
 .NET Core 1.0 1.1 2.0 3.0 3.1
-
 .NET 5, 6, 7, 8
-
 .NET Standard
 
-https://github.com/joydip-git/dotnetcore-siemens-1stmarch2024
+models (foler):
+Category: id, name
+Product: id, name, price, description, rating
+
+C (1) => P (n)
+P (1) => C (1)
+
+
+repository (folder):
+InventoryRepository
+	collection of sample category objects
+	collection of sample product objects
+
+	property to return collction of categories
+	property to return collction of products
+
+Data Access logic (folder):
+	CategoryDal
+	ProductDal
+	
+	List<?> FetchRecords() => all categories/products
+	? FetchRecord(int id) => category/product by id
+	bool Add(? object)
+	bool Remove(int id)
+	bool Update(? object, int id)
+
+Business logic (folder):
+	CategoryBL
+	ProductBL
+	
+	List<?> FetchAll() => all categories/products sorted by default by id
+	? Fetch(int id) => category/product by id
+	bool Insert(? object)
+	bool Delete(int id)
+	bool Modify(? object, int id)
+
+UI:
+ 
+	
 
 
 
