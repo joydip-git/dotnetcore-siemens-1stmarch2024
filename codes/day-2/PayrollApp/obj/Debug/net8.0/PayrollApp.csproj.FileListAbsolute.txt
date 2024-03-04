@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\bin\Debug\net8.0\PayrollApp.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\bin\Debug\net8.0\PayrollApp.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\bin\Debug\net8.0\PayrollApp.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\bin\Debug\net8.0\PayrollApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\bin\Debug\net8.0\PayrollApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\refint\PayrollApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\PayrollApp.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PayrollApp\obj\Debug\net8.0\ref\PayrollApp.dll

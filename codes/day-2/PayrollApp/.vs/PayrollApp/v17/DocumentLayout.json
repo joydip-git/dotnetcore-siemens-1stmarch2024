@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\payrollapp\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|solutionrelative:developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\payrollapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\payrollapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\payrollapp\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A2ED44-6702-42CF-88B4-E492C6A6FD27}|PayrollApp.csproj|solutionrelative:hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hr.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Hr.cs",
+              "RelativeDocumentMoniker": "Hr.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Hr.cs",
+              "RelativeToolTip": "Hr.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:36:37.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Developer.cs",
+              "RelativeDocumentMoniker": "Developer.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Developer.cs",
+              "RelativeToolTip": "Developer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:34:07.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:30:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PayrollApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:29:39.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

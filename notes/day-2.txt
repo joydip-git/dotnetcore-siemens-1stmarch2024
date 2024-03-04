@@ -32,6 +32,5 @@ TOP: Type Object Pointer (reference) -
 SBI: Sync Block Index (1 bit) - garbage collection
 
 
-generations: 0, 1, 2
 
 

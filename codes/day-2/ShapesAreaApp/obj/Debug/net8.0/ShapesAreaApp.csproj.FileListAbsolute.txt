@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\bin\Debug\net8.0\ShapesAreaApp.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\bin\Debug\net8.0\ShapesAreaApp.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\bin\Debug\net8.0\ShapesAreaApp.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\bin\Debug\net8.0\ShapesAreaApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\bin\Debug\net8.0\ShapesAreaApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\refint\ShapesAreaApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ShapesAreaApp.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\ShapesAreaApp\obj\Debug\net8.0\ref\ShapesAreaApp.dll
