@@ -12,6 +12,6 @@ namespace PMSApp.Data
             products.Add(new Product(1, "Dell XPS", 120000, "new 15 inch laptop from dell"));
             products.Add(new Product(2, "HP Envy", 140000, "new 13 inch laptop from hp"));
         }
-        public IEnumerable<Product> Products { get => products; }
+        public ICollection<Product> Products { get => products; }
     }
 }

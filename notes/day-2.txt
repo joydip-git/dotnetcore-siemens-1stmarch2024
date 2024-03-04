@@ -32,5 +32,12 @@ TOP: Type Object Pointer (reference) -
 SBI: Sync Block Index (1 bit) - garbage collection
 
 
+Generic Collections
+IEnumerable => IEnumerator GetEnumerator
+ICollection:IEnumerable
+
+IList:ICollection,IEnumerable
+
+
 
 

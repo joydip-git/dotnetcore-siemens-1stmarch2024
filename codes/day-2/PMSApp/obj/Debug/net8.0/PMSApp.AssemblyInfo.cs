@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PMSApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+278557c1ed3d8092dd81d3d763e22c92c423359c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d66faae050ca99aec01a0a89334a1f0d5be8437")]
 [assembly: System.Reflection.AssemblyProductAttribute("PMSApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PMSApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
