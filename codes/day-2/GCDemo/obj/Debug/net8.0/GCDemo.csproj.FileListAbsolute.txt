@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\bin\Debug\net8.0\GCDemo.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\bin\Debug\net8.0\GCDemo.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\bin\Debug\net8.0\GCDemo.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\bin\Debug\net8.0\GCDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\bin\Debug\net8.0\GCDemo.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\refint\GCDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\GCDemo.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\GCDemo\obj\Debug\net8.0\ref\GCDemo.dll
