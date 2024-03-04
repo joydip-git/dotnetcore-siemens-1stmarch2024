@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\bin\Debug\net8.0\MemoryManagement.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\bin\Debug\net8.0\MemoryManagement.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\bin\Debug\net8.0\MemoryManagement.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\bin\Debug\net8.0\MemoryManagement.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\bin\Debug\net8.0\MemoryManagement.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\refint\MemoryManagement.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\MemoryManagement.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\MemoryManagement\obj\Debug\net8.0\ref\MemoryManagement.dll
