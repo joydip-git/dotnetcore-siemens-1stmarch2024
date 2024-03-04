@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\bin\Debug\net8.0\PMSApp.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\bin\Debug\net8.0\PMSApp.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\bin\Debug\net8.0\PMSApp.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\bin\Debug\net8.0\PMSApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\bin\Debug\net8.0\PMSApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\refint\PMSApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\ref\PMSApp.dll

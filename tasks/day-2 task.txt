@@ -1,0 +1,66 @@
+employee:
+	data - name, id, basic pay, da pay, hra pay
+	method - virtual decimal CalculateSalary() => basicpay +dapay+hrapay
+
+developer inherits from employee:
+
+	data - incentive pay
+	method - override decimal CalculateSalary()=>base.CalculateSalary()+....
+				args: NA
+				return type: decimal
+
+hr inherits from employee:
+	data - gratuity pay
+	method - override decimal CalculateSalary()=>base.CalculateSalary()+....
+				args: NA
+				return type: decimal
+
+create objects of both developer and hr  (at least one each)
+store them in a collection
+iterate through them again and calculate their salary and print the same
+
+
+Author
+	data - name and books published
+	method - bool IsOutstanding()
+
+Trainee
+	data - name and marks
+	method - bool IsOutstanding()
+
+create objects of both author and trainee  (at least two each)
+store them in a collection
+iterate through them again and print the name of ONLY outstanding people
+
+
+circle
+	data - radius
+	method - double CalculateArea()
+
+triangle
+	data - tbase, theight
+	method - double CalculateArea()
+
+
+create objects of both circle and triangle  (at least one each)
+store them in a collection
+iterate through them again and print the calculated area of every shape
+
+
+ProductDao
+	=> method to return all products from inventory
+	=> method to return a single product from inventory given the id of the product
+		if the product with given id is not found throw an exception
+	=> method to add a new product in the inventory
+		method should return true/false indicating the success or failure
+		if the product with the same id exists throw an exception
+	=> method to reomve a product given its id
+		method should return true/false indicating the success or failure
+	   if the product with given id is not found throw an exception
+
+	=> method to update a product given its id and fresh product object data
+		method should return true/false indicating the success or failure
+	   if the product with given id is not found throw an exception
+
+
+
