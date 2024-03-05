@@ -1,0 +1,15 @@
+Business Layer: seats between Data access layer and UI (Main method, Program class)
+UI will NOT interact with ProductDao, but with business layer class
+business layer class will interact with ProductDao class
+
+create a business layer with following methods:
+	method to return all products by default sorted by product id
+	method to return all products sorted by user choice
+	method to return single product
+	method to add a single product (product id should be generate by logic and also should check whether UI has sent a null reference instead of product object)
+	method to update a single product (product id should be sent separately along with product object with updated values and also should check whether UI has sent a null reference instead of product object)
+	method to delete a single product by given id
+	method to filter the list of products by name of the product
+
+we need dependency injection of business layer in UI
+also business layer class will depend on ProductDao class

@@ -102,8 +102,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T08:19:12.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T08:19:12.472Z"
             },
             {
               "$type": "Document",
@@ -137,7 +136,7 @@
               "RelativeDocumentMoniker": "DAL\\ProductDao.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\DAL\\ProductDao.cs",
               "RelativeToolTip": "DAL\\ProductDao.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwG4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T11:55:25.54Z",
               "EditorCaption": ""

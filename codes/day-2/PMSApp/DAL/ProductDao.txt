@@ -17,11 +17,17 @@ namespace PMSApp.DAL
             try
             {
                 var products = inventory.Products;
-
                 Product? found = null;
                 if (products.Count() > 0)
                 {
-                   found = products.Where(p => p.Id == data.Id).First();
+                    foreach (var item in products)
+                    {
+                        if (item.Id == data.Id)
+                        {
+                            found = item;
+                            break;
+                        }
+                    }
                 }
                 if (found != null)
                 {
@@ -48,7 +54,14 @@ namespace PMSApp.DAL
                 Product? found = null;
                 if (products.Count() > 0)
                 {
-                    found = products.Where(p=>p.Id == id).First();
+                    foreach (var item in products)
+                    {
+                        if (item.Id == id)
+                        {
+                            found = item;
+                            break;
+                        }
+                    }
                     if (found != null)
                     {
                         return products.Remove(found);
@@ -73,7 +86,14 @@ namespace PMSApp.DAL
             Product? found = null;
             if (products.Count() > 0)
             {
-                found = products.Where(p => p.Id == id).First();
+                foreach (var item in products)
+                {
+                    if (item.Id == id)
+                    {
+                        found = item;
+                        break;
+                    }
+                }
                 if (found != null)
                 {
                     return found;
@@ -111,7 +131,14 @@ namespace PMSApp.DAL
                 Product? found = null;
                 if (products.Count() > 0)
                 {
-                    found = products.Where(p => p.Id == id).First();
+                    foreach (var item in products)
+                    {
+                        if (item.Id == id)
+                        {
+                            found = item;
+                            break;
+                        }
+                    }
                     if (found != null)
                     {
                         found.Price = data.Price;
