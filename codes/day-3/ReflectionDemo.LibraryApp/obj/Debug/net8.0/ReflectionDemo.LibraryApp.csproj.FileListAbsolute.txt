@@ -1,0 +1,12 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\bin\Debug\net8.0\ReflectionDemo.LibraryApp.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\bin\Debug\net8.0\ReflectionDemo.LibraryApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\bin\Debug\net8.0\ReflectionDemo.LibraryApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ReflectionDemo.LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ReflectionDemo.LibraryApp.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ReflectionDemo.LibraryApp.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ReflectionDemo.LibraryApp.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ReflectionDemo.LibraryApp.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ReflectionDemo.LibraryApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\refint\ReflectionDemo.LibraryApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ReflectionDemo.LibraryApp.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\ReflectionDemo.LibraryApp\obj\Debug\net8.0\ref\ReflectionDemo.LibraryApp.dll

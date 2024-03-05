@@ -1,0 +1,13 @@
+dependency injection
+collections and generic collections
+exceptions
+delegates
+new features in C#
+
+
+source code => compiler => output file (.dll) -- assembly
+
+1. IL code
+2. assembly information
+3. Type Information
+4. CLR Header (64 bit)

@@ -54,8 +54,7 @@
               "RelativeToolTip": "Data\\Inventory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T11:55:32.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T11:55:32.35Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "DAL\\ProductDao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T11:55:25.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T11:55:25.54Z"
             },
             {
               "$type": "Document",
@@ -80,21 +78,19 @@
               "RelativeToolTip": "..\\PMSApp.Tests\\ProductDaoUnitTest.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAA4wDYAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T11:44:43.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T11:44:43.99Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PMSApp",
+              "Title": "PMSApp.csproj",
               "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\PMSApp.csproj",
               "RelativeDocumentMoniker": "PMSApp.csproj",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\PMSApp.csproj",
               "RelativeToolTip": "PMSApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T11:44:22.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T11:44:22.64Z"
             }
           ]
         }
