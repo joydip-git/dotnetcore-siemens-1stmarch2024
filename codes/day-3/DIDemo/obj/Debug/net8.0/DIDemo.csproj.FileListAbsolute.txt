@@ -13,3 +13,7 @@ D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\obj\Debug\net8.0\
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\obj\Debug\net8.0\DIDemo.pdb
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\obj\Debug\net8.0\DIDemo.genruntimeconfig.cache
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\obj\Debug\net8.0\ref\DIDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\obj\Debug\net8.0\DIDemo.csproj.AssemblyReference.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DIDemo\obj\Debug\net8.0\DIDemo.csproj.Up2Date

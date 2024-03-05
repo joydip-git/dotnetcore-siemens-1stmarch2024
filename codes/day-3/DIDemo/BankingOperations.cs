@@ -4,6 +4,7 @@
     {
         public BankingOperations()
         {
+            Console.WriteLine($"object of {this.GetType().Name} created");
         }
         public string CreditAmount(double amount)
         {

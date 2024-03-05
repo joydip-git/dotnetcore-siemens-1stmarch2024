@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hwWhnwexzGN+J7tMU9Dmm8AAyszsWwh9y/yB2MLX0rO46JVQwaIkLCik1v2jScJ1UVZrWJbrLyOsCRQ1WPQhAw==",
+  "dgSpecHash": "0Tr1sh05lRhuuacobTsUnOYbTByjxXsC1j64BCYZv9dFJSi2JVDxctU7L1MgNU916OQp1g/TcIEjHV0TogqudA==",
   "success": true,
   "projectFilePath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\DIDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

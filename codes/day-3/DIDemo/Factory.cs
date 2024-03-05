@@ -3,15 +3,8 @@
     public class Factory
     {
         private static Factory instance;
-        //private readonly ICollection<Entry<int,object>> container;
-
-        //class Entry<TKey, TValue>
-        //{
-
-        //}
         private Factory()
         {
-            //container = new HashSet<Entry<int,object>>();
         }
 
         public static Factory CreateInstance()
@@ -24,9 +17,19 @@
 
         public TInterface Create<TInterface, TClass>()
         {
-            var obj = (TInterface)Activator.CreateInstance(typeof(TClass));
-            //container.Add(new Entry<int, object>(1,obj));
-            return obj;
+            Type clsTypeInfo = typeof(TClass);
+            if (clsTypeInfo != null)
+            {
+                object? obj = Activator.CreateInstance(clsTypeInfo);
+                if (obj != null)
+                {
+                    return (TInterface)obj;
+                }
+                else
+                    throw new Exception("object could not be created");
+            }
+            else
+                throw new Exception("type information could not be extracted");
         }
     }
 }

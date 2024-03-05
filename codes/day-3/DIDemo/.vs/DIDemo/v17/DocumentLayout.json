@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\didemo\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|solutionrelative:factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\didemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\didemo\\bankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|solutionrelative:bankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\didemo\\bankingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|solutionrelative:bankingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\didemo\\bankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|solutionrelative:bankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\didemo\\ibankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|solutionrelative:ibankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\didemo\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7450976-C1A6-4659-944B-F657850FC826}|DIDemo.csproj|solutionrelative:factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Factory.cs",
               "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\Factory.cs",
               "RelativeDocumentMoniker": "Factory.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\Factory.cs",
               "RelativeToolTip": "Factory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T04:31:48.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IBankingOperations.cs",
               "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\IBankingOperations.cs",
               "RelativeDocumentMoniker": "IBankingOperations.cs",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BankingApp.cs",
               "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\BankingApp.cs",
               "RelativeDocumentMoniker": "BankingApp.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\BankingApp.cs",
               "RelativeToolTip": "BankingApp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T04:19:53.926Z",
               "EditorCaption": ""
@@ -79,20 +79,20 @@
               "RelativeDocumentMoniker": "BankingOperations.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\BankingOperations.cs",
               "RelativeToolTip": "BankingOperations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T04:18:06.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-3\\DIDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T04:17:43.599Z",
               "EditorCaption": ""
