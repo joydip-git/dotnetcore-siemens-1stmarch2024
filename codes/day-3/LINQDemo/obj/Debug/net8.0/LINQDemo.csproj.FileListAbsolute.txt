@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\bin\Debug\net8.0\LINQDemo.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\bin\Debug\net8.0\LINQDemo.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\bin\Debug\net8.0\LINQDemo.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\bin\Debug\net8.0\LINQDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\bin\Debug\net8.0\LINQDemo.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\refint\LINQDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\LINQDemo.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\LINQDemo\obj\Debug\net8.0\ref\LINQDemo.dll

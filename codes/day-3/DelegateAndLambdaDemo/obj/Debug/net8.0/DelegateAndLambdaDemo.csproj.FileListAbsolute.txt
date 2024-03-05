@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\bin\Debug\net8.0\DelegateAndLambdaDemo.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\bin\Debug\net8.0\DelegateAndLambdaDemo.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\bin\Debug\net8.0\DelegateAndLambdaDemo.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\bin\Debug\net8.0\DelegateAndLambdaDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\bin\Debug\net8.0\DelegateAndLambdaDemo.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\refint\DelegateAndLambdaDemo.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\DelegateAndLambdaDemo.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-3\DelegateAndLambdaDemo\obj\Debug\net8.0\ref\DelegateAndLambdaDemo.dll
