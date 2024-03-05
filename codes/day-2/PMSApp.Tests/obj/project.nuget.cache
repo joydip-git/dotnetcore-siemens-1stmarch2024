@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "R+zcxDN1XyefovzOE2Q0slvceB6a/yIq010BZPe4hM8xI5npqj/6PGlR+MAuX1XaYfTaE3TLrHw6YjQn0hKabA==",
+  "dgSpecHash": "6TE45amUyxTrcIVQnCATPUUBJHDfb04KUMKAb3QkL8Ts3EM+ddMTZ10EeeMRQJzvSh2URVVE7EZYeHTL1ZkXIg==",
   "success": true,
   "projectFilePath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp.Tests\\PMSApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joydip\\.nuget\\packages\\coverlet.collector\\6.0.1\\coverlet.collector.6.0.1.nupkg.sha512",
     "C:\\Users\\joydip\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\joydip\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
     "C:\\Users\\joydip\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
     "C:\\Users\\joydip\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",

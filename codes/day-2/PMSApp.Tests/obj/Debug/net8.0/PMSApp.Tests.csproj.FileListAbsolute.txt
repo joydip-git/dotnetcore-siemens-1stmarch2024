@@ -104,3 +104,5 @@ D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp.Tests\obj\Debug\n
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp.Tests\obj\Debug\net8.0\PMSApp.Tests.pdb
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp.Tests\obj\Debug\net8.0\PMSApp.Tests.genruntimeconfig.cache
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp.Tests\obj\Debug\net8.0\ref\PMSApp.Tests.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

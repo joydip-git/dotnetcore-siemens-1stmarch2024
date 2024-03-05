@@ -3,16 +3,16 @@ using PMSApp.Entities;
 
 namespace PMSApp.DAL
 {
-    public class ProductDao
+    public class ProductDao : IDataAccess<Product>
     {
-        private readonly Inventory inventory;
+        private readonly IInventory inventory;
 
-        public ProductDao(Inventory inventory)
+        public ProductDao(IInventory inventory)
         {
             this.inventory = inventory;
         }
 
-        public bool Add(Product product)
+        public bool Add(Product data)
         {
             try
             {
@@ -22,7 +22,7 @@ namespace PMSApp.DAL
                 {
                     foreach (var item in products)
                     {
-                        if (item.Id == product.Id)
+                        if (item.Id == data.Id)
                         {
                             found = item;
                             break;
@@ -35,7 +35,7 @@ namespace PMSApp.DAL
                 }
                 else
                 {
-                    products.Add(product);
+                    products.Add(data);
                     return true;
                 }
 
@@ -45,7 +45,8 @@ namespace PMSApp.DAL
                 throw;
             }
         }
-        public bool Delete(int productId)
+
+        public bool Delete(int id)
         {
             try
             {
@@ -55,7 +56,7 @@ namespace PMSApp.DAL
                 {
                     foreach (var item in products)
                     {
-                        if (item.Id == productId)
+                        if (item.Id == id)
                         {
                             found = item;
                             break;
@@ -66,7 +67,7 @@ namespace PMSApp.DAL
                         return products.Remove(found);
                     }
                     else
-                        throw new Exception($"no product with the given id: {productId} found in the inventory");
+                        throw new Exception($"no product with the given id: {id} found in the inventory");
                 }
                 else
                 {
@@ -79,43 +80,33 @@ namespace PMSApp.DAL
             }
         }
 
-        public bool Update(int productId, Product product)
+        public Product Get(int id)
         {
-            try
+            var products = inventory.Products;
+            Product? found = null;
+            if (products.Count() > 0)
             {
-                var products = inventory.Products;
-                Product? found = null;
-                if (products.Count() > 0)
+                foreach (var item in products)
                 {
-                    foreach (var item in products)
+                    if (item.Id == id)
                     {
-                        if (item.Id == productId)
-                        {
-                            found = item;
-                            break;
-                        }
+                        found = item;
+                        break;
                     }
-                    if (found != null)
-                    {
-                        found.Price = product.Price;
-                        found.Description = found.Description;
-                        found.Name = product.Name;
-
-                        return true;
-                    }
-                    else
-                        throw new Exception($"no product with the given id: {productId} found in the inventory");
+                }
+                if (found != null)
+                {
+                    return found;
                 }
                 else
-                {
-                    throw new Exception("no product records at all in the inventory");
-                }
+                    throw new Exception($"no product with the given id: {id} found in the inventory");
             }
-            catch (Exception)
+            else
             {
-                throw;
+                throw new Exception("no product records at all in the inventory");
             }
         }
+
         public IEnumerable<Product> GetAll()
         {
             try
@@ -131,31 +122,44 @@ namespace PMSApp.DAL
                 throw;
             }
         }
-        public Product Get(int productId)
+
+        public bool Update(int id, Product data)
         {
-            var products = inventory.Products;
-            Product? found = null;
-            if (products.Count() > 0)
+            try
             {
-                foreach (var item in products)
+                var products = inventory.Products;
+                Product? found = null;
+                if (products.Count() > 0)
                 {
-                    if (item.Id == productId)
+                    foreach (var item in products)
                     {
-                        found = item;
-                        break;
+                        if (item.Id == id)
+                        {
+                            found = item;
+                            break;
+                        }
                     }
-                }
-                if (found != null)
-                {
-                    return found;
+                    if (found != null)
+                    {
+                        found.Price = data.Price;
+                        found.Description = data.Description;
+                        found.Name = data.Name;
+
+                        return true;
+                    }
+                    else
+                        throw new Exception($"no product with the given id: {id} found in the inventory");
                 }
                 else
-                    throw new Exception($"no product with the given id: {productId} found in the inventory");
+                {
+                    throw new Exception("no product records at all in the inventory");
+                }
             }
-            else
+            catch (Exception)
             {
-                throw new Exception("no product records at all in the inventory");
+                throw;
             }
+
         }
     }
 }

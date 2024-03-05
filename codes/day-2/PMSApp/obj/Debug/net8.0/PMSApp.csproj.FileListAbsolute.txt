@@ -13,3 +13,7 @@ D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.pdb
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.genruntimeconfig.cache
 D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\ref\PMSApp.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.csproj.AssemblyReference.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-2\PMSApp\obj\Debug\net8.0\PMSApp.csproj.Up2Date
