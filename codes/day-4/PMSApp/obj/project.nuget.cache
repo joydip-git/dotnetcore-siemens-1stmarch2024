@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDopkz+bzSkU9RhH7IzO+ewEGqzv0p0Z6i7TdxDeL+UI2zRPfuLwmmOXCil5vnCbSa4SM6wzMG/xkm6pD9RTlg==",
+  "success": true,
+  "projectFilePath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\PMSApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

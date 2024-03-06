@@ -1,0 +1,15 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\bin\Debug\net8.0\ObjectClassMethods.exe
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\bin\Debug\net8.0\ObjectClassMethods.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\bin\Debug\net8.0\ObjectClassMethods.runtimeconfig.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\bin\Debug\net8.0\ObjectClassMethods.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\bin\Debug\net8.0\ObjectClassMethods.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\refint\ObjectClassMethods.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ObjectClassMethods.genruntimeconfig.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-4\ObjectClassMethods\obj\Debug\net8.0\ref\ObjectClassMethods.dll

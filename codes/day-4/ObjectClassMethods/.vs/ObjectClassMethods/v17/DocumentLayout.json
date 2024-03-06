@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\ObjectClassMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDACE96-F401-4243-B1B8-2245625589C4}|ObjectClassMethods.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\objectclassmethods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDACE96-F401-4243-B1B8-2245625589C4}|ObjectClassMethods.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDACE96-F401-4243-B1B8-2245625589C4}|ObjectClassMethods.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\objectclassmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDACE96-F401-4243-B1B8-2245625589C4}|ObjectClassMethods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\ObjectClassMethods\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\ObjectClassMethods\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:25:30.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\ObjectClassMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\ObjectClassMethods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:21:50.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

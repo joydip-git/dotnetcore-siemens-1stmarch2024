@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C4830A-B4E5-40D1-BAC8-5FDA037DCE3E}|PMSApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\pmsapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4830A-B4E5-40D1-BAC8-5FDA037DCE3E}|PMSApp.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C4830A-B4E5-40D1-BAC8-5FDA037DCE3E}|PMSApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\pmsapp\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4830A-B4E5-40D1-BAC8-5FDA037DCE3E}|PMSApp.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C4830A-B4E5-40D1-BAC8-5FDA037DCE3E}|PMSApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\pmsapp\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4830A-B4E5-40D1-BAC8-5FDA037DCE3E}|PMSApp.csproj|solutionrelative:data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AC0A2F-7261-4855-B25F-26C3AABC08B6}|..\\PMSApp.Tests\\PMSApp.Tests.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\pmsapp.tests\\productdaounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\Data\\Inventory.cs",
+              "RelativeDocumentMoniker": "Data\\Inventory.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\Data\\Inventory.cs",
+              "RelativeToolTip": "Data\\Inventory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:12:42.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:10:23.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:08:28.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDaoUnitTest.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp.Tests\\ProductDaoUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\PMSApp.Tests\\ProductDaoUnitTest.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp.Tests\\ProductDaoUnitTest.cs",
+              "RelativeToolTip": "..\\PMSApp.Tests\\ProductDaoUnitTest.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:16:37.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
