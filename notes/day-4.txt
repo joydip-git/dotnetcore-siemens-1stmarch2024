@@ -1,0 +1,18 @@
+DbContext => 
+	connecting to the database
+	firing query
+	openning and closing database
+	.......
+
+Model classes:
+	POCO => mapped to the table(s)
+
+Mapping between the POCO and DbContext class and tables and database
+
+protected void OnConfiguring(DbContextOptionsBuilder builder){}
+//protected void OnModelCreating(ModelBuilder builder){}
+
+
+
+UseSqlServer, UseInMemory....
+
