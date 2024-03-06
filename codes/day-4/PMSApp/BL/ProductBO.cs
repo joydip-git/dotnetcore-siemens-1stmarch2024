@@ -5,14 +5,14 @@ namespace PMSApp.BL
 {
     public class ProductBO : IProductBusinessComponent
     {
-        private readonly IDataAccess<Product> _dao;
+        private readonly IDataAccess<ProductDto> _dao;
 
-        public ProductBO(IDataAccess<Product> dao)
+        public ProductBO(IDataAccess<ProductDto> dao)
         {
             _dao = dao;
         }
 
-        public Product Fetch(int id)
+        public ProductDto Fetch(int id)
         {
             try
             {
@@ -24,9 +24,9 @@ namespace PMSApp.BL
             }
         }
 
-        public IEnumerable<Product> FetchAll(int choice)
+        public IEnumerable<ProductDto> FetchAll(int choice)
         {
-            IEnumerable<Product>? products = null;
+            IEnumerable<ProductDto>? products = null;
             try
             {
                 switch (choice)
@@ -55,7 +55,7 @@ namespace PMSApp.BL
             }
         }
 
-        public IEnumerable<Product> FetchAll()
+        public IEnumerable<ProductDto> FetchAll()
         {
             try
             {
@@ -67,7 +67,7 @@ namespace PMSApp.BL
             }
         }
 
-        public IEnumerable<Product> FilterByName(string productName)
+        public IEnumerable<ProductDto> FilterByName(string productName)
         {
             try
             {
@@ -86,7 +86,7 @@ namespace PMSApp.BL
             }
         }
 
-        public bool Insert(Product entity)
+        public bool Insert(ProductDto entity)
         {
             try
             {
@@ -100,7 +100,7 @@ namespace PMSApp.BL
                         newId = lastProduct.Id + 1;
                     }
 
-                    var updated = new Product(newId, entity.Name, entity.Price, entity.Description);
+                    var updated = new ProductDto(newId, entity.Name, entity.Price, entity.Description);
                     return _dao.Add(updated);
                 }
                 else
@@ -112,7 +112,7 @@ namespace PMSApp.BL
             }
         }
 
-        public bool Modify(int id, Product entity)
+        public bool Modify(int id, ProductDto entity)
         {
             try
             {

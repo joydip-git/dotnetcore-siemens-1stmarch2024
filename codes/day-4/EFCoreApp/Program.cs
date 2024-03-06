@@ -1,6 +1,7 @@
 ﻿using EFCoreApp.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using System.Text;
 
 namespace EFCoreApp
 {
@@ -11,10 +12,12 @@ namespace EFCoreApp
         {
             string connectionString = @"server=joydip-pc\sqlexpress;database=siemensdb;user id=sa;password=SqlServer@2022;TrustServerCertificate=true";
 
-            var services = new ServiceCollection();
+          
 
+            //DbContextOptionsBuilder creates a DbContextOptions object used by DbContext class
             Action<DbContextOptionsBuilder> builder = (options) => options.UseSqlServer(connectionString);
 
+            var services = new ServiceCollection();
             var provider = services
                 .AddDbContext<SiemensDbContext>(builder)
                 .BuildServiceProvider();
@@ -31,6 +34,13 @@ namespace EFCoreApp
 
                 db.EmployeeInfos.ToList().ForEach(e => Console.WriteLine($"{e.Name}, {e.Id},{e.Salary}, {e.Department??e.Department}"));
             }
+
+            StringBuilder strBuilder = new StringBuilder();
+            strBuilder
+                .Append("simens")
+                .Append("E City")
+                .Append("Bangalore")
+                .ToString();
         }
     }
 }

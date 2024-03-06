@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PMSApp.DAL
 {
-    public class CategoryDao : IDataAccess<Category>
+    public class CategoryDao : IDataAccess<CategoryDto>
     {
         private readonly IInventory inventory;
 
@@ -17,7 +17,7 @@ namespace PMSApp.DAL
             this.inventory = inventory;
         }
 
-        public bool Add(Category data)
+        public bool Add(CategoryDto data)
         {
             throw new NotImplementedException();
         }
@@ -27,17 +27,17 @@ namespace PMSApp.DAL
             throw new NotImplementedException();
         }
 
-        public Category Get(int id)
+        public CategoryDto Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Category> GetAll()
+        public IEnumerable<CategoryDto> GetAll()
         {
             return inventory.Categories;
         }
 
-        public bool Update(int id, Category data)
+        public bool Update(int id, CategoryDto data)
         {
             throw new NotImplementedException();
         }

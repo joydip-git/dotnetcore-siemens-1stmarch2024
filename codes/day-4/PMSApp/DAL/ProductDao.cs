@@ -3,25 +3,31 @@ using PMSApp.Entities;
 
 namespace PMSApp.DAL
 {
-    public class ProductDao : IDataAccess<Product>
+    public class ProductDao : IDataAccess<ProductDto>
     {
-        private readonly IInventory inventory;
+        //private readonly IInventory inventory;
+        private readonly SiemensDbContext inventory;
 
-        public ProductDao(IInventory inventory)
+        //public ProductDao(IInventory inventory)
+        //{
+        //    this.inventory = inventory;
+        //}
+        public ProductDao(SiemensDbContext inventory)
         {
             this.inventory = inventory;
         }
 
-        public bool Add(Product data)
+        public bool Add(ProductDto data)
         {
             try
             {
                 var products = inventory.Products;
 
+                //ProductDto? found = null;
                 Product? found = null;
                 if (products.Count() > 0)
                 {
-                   found = products.Where(p => p.Id == data.Id).First();
+                    found = products.Where(p => p.Id == data.Id).First();
                 }
                 if (found != null)
                 {
@@ -29,8 +35,16 @@ namespace PMSApp.DAL
                 }
                 else
                 {
-                    products.Add(data);
-                    return true;
+                    Product p = new Product
+                    {
+                        Name = data.Name,
+                        Description = data.Description,
+                        Price = data.Price,
+                        CategoryId = data.CategoryId
+                    };
+                    products.Add(p);
+                    var res = inventory.SaveChanges();
+                    return res > 0;
                 }
 
             }
@@ -45,13 +59,15 @@ namespace PMSApp.DAL
             try
             {
                 var products = inventory.Products;
+                //ProductDto? found = null;
                 Product? found = null;
                 if (products.Count() > 0)
                 {
-                    found = products.Where(p=>p.Id == id).First();
+                    found = products.Where(p => p.Id == id).First();
                     if (found != null)
                     {
-                        return products.Remove(found);
+                        products.Remove(found);
+                        return inventory.SaveChanges() > 0;
                     }
                     else
                         throw new Exception($"no product with the given id: {id} found in the inventory");
@@ -67,16 +83,17 @@ namespace PMSApp.DAL
             }
         }
 
-        public Product Get(int id)
+        public ProductDto Get(int id)
         {
             var products = inventory.Products;
+            //ProductDto? found = null;
             Product? found = null;
             if (products.Count() > 0)
             {
                 found = products.Where(p => p.Id == id).First();
                 if (found != null)
                 {
-                    return found;
+                    return new ProductDto(found.Id, found.Name, found.Price, found.Description, found.CategoryId);
                 }
                 else
                     throw new Exception($"no product with the given id: {id} found in the inventory");
@@ -87,13 +104,18 @@ namespace PMSApp.DAL
             }
         }
 
-        public IEnumerable<Product> GetAll()
+        public IEnumerable<ProductDto> GetAll()
         {
             try
             {
                 var products = inventory.Products;
                 if (products.Count() > 0)
-                    return products;
+                {
+                   return products.Select(
+                        p => new ProductDto(p.Id,p.Name,p.Price,p.Description,p.CategoryId,null)
+                        );
+                }
+
                 else
                     throw new Exception("there are no product records in the inventory");
             }
@@ -103,11 +125,12 @@ namespace PMSApp.DAL
             }
         }
 
-        public bool Update(int id, Product data)
+        public bool Update(int id, ProductDto data)
         {
             try
             {
                 var products = inventory.Products;
+                //ProductDto? found = null;
                 Product? found = null;
                 if (products.Count() > 0)
                 {
@@ -117,8 +140,9 @@ namespace PMSApp.DAL
                         found.Price = data.Price;
                         found.Description = data.Description;
                         found.Name = data.Name;
+                        found.CategoryId = data.CategoryId;
 
-                        return true;
+                        return inventory.SaveChanges() > 0;
                     }
                     else
                         throw new Exception($"no product with the given id: {id} found in the inventory");

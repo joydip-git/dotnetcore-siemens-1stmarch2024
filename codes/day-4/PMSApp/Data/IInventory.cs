@@ -4,7 +4,7 @@ namespace PMSApp.Data
 {
     public interface IInventory
     {
-        ICollection<Product> Products { get; }
-        ICollection<Category> Categories { get; }
+        ICollection<ProductDto> Products { get; }
+        ICollection<CategoryDto> Categories { get; }
     }
 }

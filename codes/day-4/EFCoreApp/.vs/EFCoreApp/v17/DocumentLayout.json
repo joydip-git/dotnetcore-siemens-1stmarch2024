@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|solutionrelative:data\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\efcoreapp\\migrations\\siemensdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|solutionrelative:migrations\\siemensdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\efcoreapp\\models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|solutionrelative:models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\efcoreapp\\migrations\\siemensdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|solutionrelative:migrations\\siemensdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31CC03A3-8FAA-4E2A-A383-5B9BB0DD7B43}|EFCoreApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\efcoreapp\\migrations\\20240306092117_departmentcolumnadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\EFCoreApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCIAAACIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T09:26:02.042Z",
               "EditorCaption": ""
@@ -59,12 +59,11 @@
               "RelativeToolTip": "Migrations\\20240306092117_DepartmentColumnAdd.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:21:17.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T09:21:17.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SiemensDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\EFCoreApp\\Migrations\\SiemensDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\SiemensDbContextModelSnapshot.cs",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Migrations\\SiemensDbContextModelSnapshot.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAAADIAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:16:41.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T09:16:41.605Z"
             },
             {
               "$type": "Document",
@@ -85,18 +83,17 @@
               "RelativeToolTip": "Migrations\\20240306091425_SiemensDbInitialCreate.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:15:44.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T09:15:44.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EmployeeInfo.cs",
               "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\EFCoreApp\\Models\\EmployeeInfo.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeInfo.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\EFCoreApp\\Models\\EmployeeInfo.cs",
               "RelativeToolTip": "Models\\EmployeeInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T08:28:28.108Z",
               "EditorCaption": ""
@@ -109,7 +106,7 @@
               "RelativeDocumentMoniker": "Data\\SiemensDbContext.cs",
               "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\EFCoreApp\\Data\\SiemensDbContext.cs",
               "RelativeToolTip": "Data\\SiemensDbContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T08:26:38.303Z",
               "EditorCaption": ""

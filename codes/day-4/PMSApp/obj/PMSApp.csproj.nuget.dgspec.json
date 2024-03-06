@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\PMSApp.csproj": {}
+    "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\PMSApp.csproj": {}
   },
   "projects": {
-    "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\PMSApp.csproj": {
+    "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\PMSApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\PMSApp.csproj",
+        "projectUniqueName": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\PMSApp.csproj",
         "projectName": "PMSApp",
-        "projectPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\PMSApp.csproj",
+        "projectPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\PMSApp.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-2\\PMSApp\\obj\\",
+        "outputPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-4\\PMSApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,6 +48,22 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.0, )"
