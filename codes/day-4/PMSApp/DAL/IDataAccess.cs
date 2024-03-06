@@ -1,11 +1,11 @@
 ﻿namespace PMSApp.DAL
 {
-    public interface IDataAccess<T>
+    public interface IDataAccess<TInput,TOutput>
     {
-        bool Add(T data);
+        bool Add(TInput data);
         bool Delete(int id);
-        bool Update(int id, T data);
-        IEnumerable<T> GetAll();
-        T Get(int id);
+        bool Update(int id, TInput data);
+        IEnumerable<TOutput> GetAll();
+        TOutput Get(int id);
     }
 }

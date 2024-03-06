@@ -1,45 +1,40 @@
 ﻿using PMSApp.Data;
 using PMSApp.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PMSApp.DAL
 {
-    public class CategoryDao : IDataAccess<CategoryDto>
+    public class CategoryDao : IDataAccess<CategoryCreateDto,CategoryReadDto>
     {
-        private readonly IInventory inventory;
+        private readonly SiemensDbContext inventory;
 
-        public CategoryDao(IInventory inventory)
+        public CategoryDao(SiemensDbContext inventory)
         {
             this.inventory = inventory;
         }
 
-        public bool Add(CategoryDto data)
+        public bool Add(CategoryCreateDto data)
         {
-            throw new NotImplementedException();
+            return false;
         }
 
         public bool Delete(int id)
         {
-            throw new NotImplementedException();
+            return false;
         }
 
-        public CategoryDto Get(int id)
+        public CategoryReadDto Get(int id)
         {
-            throw new NotImplementedException();
+            return new CategoryReadDto();
         }
 
-        public IEnumerable<CategoryDto> GetAll()
+        public IEnumerable<CategoryReadDto> GetAll()
         {
-            return inventory.Categories;
+            return inventory.Categories.Select(c=>new CategoryReadDto { Id=c.Id, Name=c.Name });
         }
 
-        public bool Update(int id, CategoryDto data)
+        public bool Update(int id, CategoryCreateDto data)
         {
-            throw new NotImplementedException();
+            return false;
         }
     }
 }

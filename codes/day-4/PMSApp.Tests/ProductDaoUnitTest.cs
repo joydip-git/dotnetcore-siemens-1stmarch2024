@@ -8,51 +8,48 @@ namespace PMSApp.Tests
     [TestFixture]
     public class ProductDaoUnitTest
     {
-        private Inventory? inventory;
+        private SiemensDbContext inventory;
         private ProductDao? productDao;
 
         [SetUp]
         public void SetUp()
         {
-            inventory = new Inventory();
+            //inventory = new SiemensDbContext();
             //productDao = new ProductDao(inventory);
         }
         [TearDown]
         public void TearDown()
         {
             productDao = null;
-            inventory = null;
+            inventory.Dispose();
         }
 
         [Test]
         public void AddPositiveTest()
         {
-            bool? actual = productDao?.Add(new ProductDto(3, "MacBook Pro", 150000, "new laptop from apple"));
+            bool? actual = productDao?.Add(new ProductCreateDto("MacBook Pro", 150000, "new laptop from apple"));
             if (actual != null)
             {
-                //Assert.That(actual, Is.True);
-
-                ClassicAssert.AreEqual(true, actual);
+                Assert.That(actual, Is.EqualTo(true));
             }
         }
 
         [Test]
         public void AddExceptionFlowTest()
-        {            
+        {
             Assert.Throws<Exception>(() =>
             {
-                productDao?.Add(new ProductDto(1, "MacBook Pro", 150000, "new laptop from apple"));
+                productDao?.Add(new ProductCreateDto("MacBook Pro", 150000, "new laptop from apple"));
             });
         }
 
         [Test]
         public void GetPositiveTest()
         {
-            ProductDto expected = new ProductDto(1, "Dell XPS", 120000, "new 15 inch laptop from dell", 1,new CategoryDto(1, "Laptop"));
-            ProductDto? actual = productDao?.Get(1);            
-            if(actual != null)
+            ProductReadDto expected = new ProductReadDto(1, "Dell XPS", 120000, "new 15 inch laptop from dell", 1);
+            ProductReadDto? actual = productDao?.Get(1);
+            if (actual != null)
             {
-                //Assert.That(actual.Equals(expected));
                 Assert.That(actual, Is.EqualTo(expected));
             }
         }

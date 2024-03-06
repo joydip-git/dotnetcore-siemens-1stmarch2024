@@ -1,19 +1,18 @@
 ﻿namespace PMSApp.Entities
 {
-    public class CategoryDto
+    public class CategoryReadDto
     {
-        private readonly int _id;
-        public int Id { get => _id; }
+        public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
 
-        public CategoryDto()
+        public CategoryReadDto()
         {
 
         }
 
-        public CategoryDto(int id, string name)
+        public CategoryReadDto(int id, string name)
         {
-            _id = id;
+            Id = id;
             Name = name;
         }
 
@@ -21,9 +20,9 @@
         {
             if (obj != null)
             {
-                if (obj is CategoryDto)
+                if (obj is CategoryReadDto)
                 {
-                    CategoryDto other = obj as CategoryDto;
+                    CategoryReadDto other = (CategoryReadDto)obj;
 
                     //if(ReferenceEquals(this, obj)) return true;
                     if (this == other)
@@ -42,6 +41,12 @@
             }
             else
                 throw new NullReferenceException("obj is null");
+        }
+
+        public override int GetHashCode()
+        {
+            const int prime = 31;
+            return this.Id.GetHashCode() * prime;
         }
     }
 }

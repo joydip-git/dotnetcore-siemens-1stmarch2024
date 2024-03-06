@@ -5,14 +5,14 @@ namespace PMSApp.BL
 {
     public class ProductBO : IProductBusinessComponent
     {
-        private readonly IDataAccess<ProductDto> _dao;
+        private readonly IDataAccess<ProductCreateDto, ProductReadDto> _dao;
 
-        public ProductBO(IDataAccess<ProductDto> dao)
+        public ProductBO(IDataAccess<ProductCreateDto, ProductReadDto> dao)
         {
             _dao = dao;
         }
 
-        public ProductDto Fetch(int id)
+        public ProductReadDto Fetch(int id)
         {
             try
             {
@@ -24,9 +24,9 @@ namespace PMSApp.BL
             }
         }
 
-        public IEnumerable<ProductDto> FetchAll(int choice)
+        public IEnumerable<ProductReadDto> FetchAll(int choice)
         {
-            IEnumerable<ProductDto>? products = null;
+            IEnumerable<ProductReadDto>? products = null;
             try
             {
                 switch (choice)
@@ -55,7 +55,7 @@ namespace PMSApp.BL
             }
         }
 
-        public IEnumerable<ProductDto> FetchAll()
+        public IEnumerable<ProductReadDto> FetchAll()
         {
             try
             {
@@ -67,7 +67,7 @@ namespace PMSApp.BL
             }
         }
 
-        public IEnumerable<ProductDto> FilterByName(string productName)
+        public IEnumerable<ProductReadDto> FilterByName(string productName)
         {
             try
             {
@@ -86,22 +86,13 @@ namespace PMSApp.BL
             }
         }
 
-        public bool Insert(ProductDto entity)
+        public bool Insert(ProductCreateDto entity)
         {
             try
             {
                 if (entity != null)
                 {
-                    
-                    var lastProduct = FetchAll().Last();
-                    var newId = 1;
-                    if (lastProduct != null)
-                    {
-                        newId = lastProduct.Id + 1;
-                    }
-
-                    var updated = new ProductDto(newId, entity.Name, entity.Price, entity.Description);
-                    return _dao.Add(updated);
+                    return _dao.Add(entity);
                 }
                 else
                     throw new NullReferenceException("null reference has been passed");
@@ -112,24 +103,25 @@ namespace PMSApp.BL
             }
         }
 
-        public bool Modify(int id, ProductDto entity)
+        public bool Modify(int id, ProductCreateDto entity)
         {
             try
             {
-                if(entity != null)
+                if (entity != null)
                 {
                     return _dao.Update(id, entity);
-                }else
+                }
+                else
                     throw new NullReferenceException("null reference has been passed");
             }
-            catch(Exception) { throw; }
+            catch (Exception) { throw; }
         }
 
         public bool Remove(int id)
         {
             try
             {
-               return _dao.Delete(id);
+                return _dao.Delete(id);
             }
             catch (Exception)
             {

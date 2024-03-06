@@ -2,9 +2,9 @@
 
 namespace PMSApp.BL
 {
-    public interface IProductBusinessComponent : IBusinessComponent<ProductDto>
+    public interface IProductBusinessComponent : IBusinessComponent<ProductCreateDto,ProductReadDto>
     {
-        IEnumerable<ProductDto> FilterByName(string productName);
-        IEnumerable<ProductDto> FetchAll(int choice);
+        IEnumerable<ProductReadDto> FilterByName(string productName);
+        IEnumerable<ProductReadDto> FetchAll(int choice);
     }
 }

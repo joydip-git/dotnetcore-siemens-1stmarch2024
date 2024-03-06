@@ -3,50 +3,30 @@ using PMSApp.Entities;
 
 namespace PMSApp.DAL
 {
-    public class ProductDao : IDataAccess<ProductDto>
+    public class ProductDao : IDataAccess<ProductCreateDto, ProductReadDto>
     {
-        //private readonly IInventory inventory;
         private readonly SiemensDbContext inventory;
 
-        //public ProductDao(IInventory inventory)
-        //{
-        //    this.inventory = inventory;
-        //}
         public ProductDao(SiemensDbContext inventory)
         {
             this.inventory = inventory;
         }
 
-        public bool Add(ProductDto data)
+        public bool Add(ProductCreateDto data)
         {
             try
             {
                 var products = inventory.Products;
-
-                //ProductDto? found = null;
-                Product? found = null;
-                if (products.Count() > 0)
+                Product p = new Product
                 {
-                    found = products.Where(p => p.Id == data.Id).First();
-                }
-                if (found != null)
-                {
-                    throw new Exception("Product exists");
-                }
-                else
-                {
-                    Product p = new Product
-                    {
-                        Name = data.Name,
-                        Description = data.Description,
-                        Price = data.Price,
-                        CategoryId = data.CategoryId
-                    };
-                    products.Add(p);
-                    var res = inventory.SaveChanges();
-                    return res > 0;
-                }
-
+                    Name = data.Name,
+                    Description = data.Description,
+                    Price = data.Price,
+                    CategoryId = data.CategoryId
+                };
+                products.Add(p);
+                var res = inventory.SaveChanges();
+                return res > 0;
             }
             catch (Exception)
             {
@@ -59,7 +39,6 @@ namespace PMSApp.DAL
             try
             {
                 var products = inventory.Products;
-                //ProductDto? found = null;
                 Product? found = null;
                 if (products.Count() > 0)
                 {
@@ -83,17 +62,16 @@ namespace PMSApp.DAL
             }
         }
 
-        public ProductDto Get(int id)
+        public ProductReadDto Get(int id)
         {
             var products = inventory.Products;
-            //ProductDto? found = null;
             Product? found = null;
             if (products.Count() > 0)
             {
                 found = products.Where(p => p.Id == id).First();
                 if (found != null)
                 {
-                    return new ProductDto(found.Id, found.Name, found.Price, found.Description, found.CategoryId);
+                    return new ProductReadDto(found.Id, found.Name, found.Price, found.Description, found.CategoryId);
                 }
                 else
                     throw new Exception($"no product with the given id: {id} found in the inventory");
@@ -104,16 +82,16 @@ namespace PMSApp.DAL
             }
         }
 
-        public IEnumerable<ProductDto> GetAll()
+        public IEnumerable<ProductReadDto> GetAll()
         {
             try
             {
                 var products = inventory.Products;
                 if (products.Count() > 0)
                 {
-                   return products.Select(
-                        p => new ProductDto(p.Id,p.Name,p.Price,p.Description,p.CategoryId,null)
-                        );
+                    return products.Select(
+                         p => new ProductReadDto(p.Id, p.Name, p.Price, p.Description, p.CategoryId, null)
+                         );
                 }
 
                 else
@@ -125,12 +103,11 @@ namespace PMSApp.DAL
             }
         }
 
-        public bool Update(int id, ProductDto data)
+        public bool Update(int id, ProductCreateDto data)
         {
             try
             {
                 var products = inventory.Products;
-                //ProductDto? found = null;
                 Product? found = null;
                 if (products.Count() > 0)
                 {
@@ -156,7 +133,6 @@ namespace PMSApp.DAL
             {
                 throw;
             }
-
         }
     }
 }

@@ -1,11 +1,11 @@
 ﻿namespace PMSApp.BL
 {
-    public interface IBusinessComponent<T>
+    public interface IBusinessComponent<TInput,TOutput>
     {
-        IEnumerable<T> FetchAll();
-        T Fetch(int id);
-        bool Insert(T entity);
-        bool Modify(int id, T entity);
+        IEnumerable<TOutput> FetchAll();
+        TOutput Fetch(int id);
+        bool Insert(TInput entity);
+        bool Modify(int id, TInput entity);
         bool Remove(int id);
     }
 }
