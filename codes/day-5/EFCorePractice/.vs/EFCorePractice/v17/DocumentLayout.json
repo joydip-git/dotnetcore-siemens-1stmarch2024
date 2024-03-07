@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\efcorepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\efcorepractice\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|solutionrelative:dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\efcorepractice\\dao\\icustomerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|solutionrelative:dao\\icustomerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\efcorepractice\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|solutionrelative:dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\efcorepractice\\dtos\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|solutionrelative:dtos\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\efcorepractice\\repository\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|solutionrelative:repository\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\5tsoucjq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\efcorepractice\\repository\\ordercustomerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF065E2F-00EE-4966-AB25-EF87E01D3252}|EFCorePractice.csproj|solutionrelative:repository\\ordercustomerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\4qqq4ybb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\5tsoucjq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\5tsoucjq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\4qqq4ybb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\4qqq4ybb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerDao.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DAO\\ICustomerDao.cs",
+              "RelativeDocumentMoniker": "DAO\\ICustomerDao.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DAO\\ICustomerDao.cs",
+              "RelativeToolTip": "DAO\\ICustomerDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:51:18.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DTOs\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerCreateDto.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DTOs\\CustomerCreateDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:21:24.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\Repository\\Customer.cs",
+              "RelativeDocumentMoniker": "Repository\\Customer.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\Repository\\Customer.cs",
+              "RelativeToolTip": "Repository\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:11:48.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerReadDto.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DTOs\\CustomerReadDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerReadDto.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DTOs\\CustomerReadDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:11:37.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDao.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DAO\\CustomerDao.cs",
+              "RelativeDocumentMoniker": "DAO\\CustomerDao.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\DAO\\CustomerDao.cs",
+              "RelativeToolTip": "DAO\\CustomerDao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:03:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:47:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\joydip\\AppData\\Local\\Temp\\4qqq4ybb..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-07T04:44:36.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\joydip\\AppData\\Local\\Temp\\5tsoucjq..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-07T04:40:42.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderCustomerDbContext.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\Repository\\OrderCustomerDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderCustomerDbContext.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\EFCorePractice\\Repository\\OrderCustomerDbContext.cs",
+              "RelativeToolTip": "Repository\\OrderCustomerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:39:21.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

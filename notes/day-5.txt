@@ -1,0 +1,6 @@
+1. Order and Customer model
+2. SiemensDbContext
+		OnConfiguring(DbContextOptiionsBuilder builder)
+		OnModelCreating(ModelBuilder builder)
+3. Add-Migration <mig-file-name>
+4. Update-Database
