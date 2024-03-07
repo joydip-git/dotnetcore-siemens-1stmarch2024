@@ -1,0 +1,12 @@
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\bin\Debug\net8.0\SampleLib.deps.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\bin\Debug\net8.0\SampleLib.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\bin\Debug\net8.0\SampleLib.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\SampleLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\SampleLib.AssemblyInfoInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\SampleLib.AssemblyInfo.cs
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\SampleLib.csproj.CoreCompileInputs.cache
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\SampleLib.sourcelink.json
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\SampleLib.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\refint\SampleLib.dll
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\SampleLib.pdb
+D:\training\dotnetcore-siemens-1stmarch2024\codes\day-5\SampleLib\obj\Debug\net8.0\ref\SampleLib.dll

@@ -4,3 +4,23 @@
 		OnModelCreating(ModelBuilder builder)
 3. Add-Migration <mig-file-name>
 4. Update-Database
+
+
+Web API
+
+<?soap version="1.0">
+	
+	<id>
+		1
+	</id>
+
+
+[{
+	"name":"",
+	"id":1,
+		.....
+}]
+
+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
+
+

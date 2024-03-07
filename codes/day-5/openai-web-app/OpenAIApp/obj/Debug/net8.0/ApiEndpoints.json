@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "OpenAIApp.Controllers.OpenAiController",
+    "Method": "AskAQuestion",
+    "RelativePath": "OpenAi/askquestion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OpenAIApp.Controllers.OpenAiController",
+    "Method": "Complete",
+    "RelativePath": "OpenAi/complete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\samplewebapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\samplewebapiapp\\repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|solutionrelative:repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\samplewebapiapp\\repository\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|solutionrelative:repository\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\samplewebapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|d:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\samplewebapiapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9C1DCD-435A-4EEA-9A94-FE52F80EF7A6}|SampleWebApiApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T09:48:36.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiemensDbContext.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Repository\\SiemensDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\SiemensDbContext.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Repository\\SiemensDbContext.cs",
+              "RelativeToolTip": "Repository\\SiemensDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:30:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Repository\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeInfo.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Repository\\EmployeeInfo.cs",
+              "RelativeToolTip": "Repository\\EmployeeInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:29:33.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:18:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\dotnetcore-siemens-1stmarch2024\\codes\\day-5\\SampleWebApiApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:53:26.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
